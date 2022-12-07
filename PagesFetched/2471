@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<!-- OneTrust Cookies Consent Notice start, uic.edu -->
+<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="c2f2262d-b694-4eba-8f4b-142c102b685a"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end, uic.edu -->
+
+
+<!-- Google Analytics Code -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-20665772-1', 'auto');
+    ga('create', 'UA-4402713-9', 'auto', 'todayTracker');
+    ga('send', 'pageview');
+    ga('todayTracker.send', 'pageview');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-57G9C3Q');</script>
+<!-- End Google Tag Manager -->
+  
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>College of Liberal Arts and Sciences | UIC Today</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://today.uic.edu/wp-content/themes/uictoday/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://today.uic.edu/wp-content/themes/uictoday/css/style.min.css" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://today.uic.edu/feed" />
+<link rel="shortcut icon" href="https://today.uic.edu/wp-content/themes/uictoday/favicon.ico" />
+
+<!-- Favicons -->
+<!-- generated at https://favicon.io/favicon-converter/ -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//today.uic.edu' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="UIC Today &raquo; College of Liberal Arts and Sciences Tag Feed" href="https://today.uic.edu/tag/college-of-liberal-arts-and-sciences/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/today.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://today.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ugb-style-css-v2-css'  href='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2.css?ver=3.4.2' type='text/css' media='all' />
+<style id='ugb-style-css-v2-inline-css' type='text/css'>
+:root {
+			--content-width: 900px;
+		}
+</style>
+<link rel='stylesheet' id='ugb-style-css-premium-v2-css'  href='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2__premium_only.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://today.uic.edu/wp-includes/css/dist/components/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='https://today.uic.edu/wp-includes/css/dist/block-editor/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='https://today.uic.edu/wp-includes/css/dist/nux/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-reusable-blocks-css'  href='https://today.uic.edu/wp-includes/css/dist/reusable-blocks/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='https://today.uic.edu/wp-includes/css/dist/editor/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sld_block-cgb-style-css-css'  href='https://today.uic.edu/wp-content/plugins/simple-link-directory/gutenberg/sld-block/dist/blocks.style.build.css?ver=6.0.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='events-manager-css'  href='https://today.uic.edu/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wow-icons-fa-css'  href='https://today.uic.edu/wp-content/plugins/wow-icons//assets/fontawesome/font-awesome.min.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='upw_theme_standard-css'  href='https://today.uic.edu/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://today.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.14' type='text/css' media='all' />
+<style id='tablepress-default-inline-css' type='text/css'>
+.tablepress-id-1 .column-1{vertical-align:middle}.tablepress-id-1 tbody td{font-size:15px}.tablepress-id-1{width:auto important!}.tablepress-id-1 img{margin:0!important}.tablepress-id-6 .column-1{vertical-align:middle}.tablepress-id-6 tbody td{font-size:15px}.tablepress-id-6{width:auto important!}.tablepress-id-6 img{margin:0!important}.tablepress-id-3 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-3 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-3 .odd td{background-color:#e6e6e6}.tablepress-id-3 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-3 .column-1{width:50%}.tablepress-id-4 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-4 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-4 .odd td{background-color:#e6e6e6}.tablepress-id-4 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-4 .column-1{width:50%}.tablepress-id-5 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-5 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-5 .odd td{background-color:#e6e6e6}.tablepress-id-5 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-5 .column-1{width:50%}
+</style>
+<link rel='stylesheet' id='ari-fancybox-css'  href='https://today.uic.edu/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.css?ver=1.3.9' type='text/css' media='all' />
+<script type='text/javascript' id='ugb-block-frontend-js-v2-js-extra'>
+/* <![CDATA[ */
+var stackable = {"restUrl":"https:\/\/today.uic.edu\/wp-json\/","googleApiKey":"","i18n":{"missingMapApiKey":"This map block uses settings that require a Google Maps API key, but it is missing. Please enter your Google Maps API key in the Stackable settings, or edit this map block."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2.js?ver=3.4.2' id='ugb-block-frontend-js-v2-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2__premium_only.js?ver=3.4.2' id='ugb-block-frontend-js-premium-v2-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.1' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/events-manager/includes/external/selectize/js/standalone/selectize.js?ver=6.1.1' id='em-selectize-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.1' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.1' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.1' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.1' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.13.1' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.1' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' id='events-manager-js-extra'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/today.uic.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/today.uic.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"yy-mm-dd","ui_css":"https:\/\/today.uic.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui\/build.min.css","selectize_css":"https:\/\/today.uic.edu\/wp-content\/plugins\/events-manager\/includes\/external\/selectize\/css\/selectize.bootstrap5.min.css","show24hours":"0","is_ssl":"1","autocomplete_limit":"10","calendar":{"breakpoints":{"small":560,"medium":908,"large":false}},"datepicker":{"format":"m\/d\/Y"},"search":{"breakpoints":{"small":650,"medium":850,"full":false}},"txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=6.1.1' id='events-manager-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/wpo365-login/apps/dist/pintra-redirect.js?ver=20.1' id='pintraredirectjs-js' async></script>
+<script type='text/javascript' id='ari-fancybox-js-extra'>
+/* <![CDATA[ */
+var ARI_FANCYBOX = {"lightbox":{"touch":{"vertical":true,"momentum":true},"buttons":["slideShow","fullScreen","thumbs","close"],"lang":"custom","i18n":{"custom":{"PREV":"Previous","NEXT":"Next","PLAY_START":"Start slideshow (P)","PLAY_STOP":"Stop slideshow (P)","FULL_SCREEN":"Full screen (F)","THUMBS":"Thumbnails (G)","CLOSE":"Close (Esc)","ERROR":"The requested content cannot be loaded. <br\/> Please try again later."}}},"convert":{},"viewers":{"pdfjs":{"url":"https:\/\/today.uic.edu\/wp-content\/plugins\/ari-fancy-lightbox\/assets\/pdfjs\/web\/viewer.html"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.js?ver=1.3.9' id='ari-fancybox-js'></script>
+<link rel="https://api.w.org/" href="https://today.uic.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://today.uic.edu/wp-json/wp/v2/tags/3137" />
+<link rel="alternate" type="application/rss+xml" title="Podcast RSS feed" href="https://today.uic.edu/feed/podcast" />
+
+<script type="text/javascript">
+            var ajaxurl = "https://today.uic.edu/wp-admin/admin-ajax.php";
+            var qc_sld_get_ajax_nonce = "2daad3e683";
+         </script><style type="text/css">BODY .fancybox-container{z-index:200000}BODY .fancybox-is-open .fancybox-bg{opacity:0.87}BODY .fancybox-bg {background-color:#0f0f11}BODY .fancybox-thumbs {background-color:#ffffff}</style>
+<!-- Put the following javascript before the closing </head> tag. -->
+
+<script>
+  (function() {
+    var cx = '009511351313755808885:xdz07yl93pe';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<!-- This library is for the moment function in restrict-form-submit-date-manual.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.26.0/moment.min.js"></script>
+
+<!--
+skipto accessibility feature
+	How to update:
+	1. Copy the latest version of skipto.min.js from https://github.com/paypal/skipto/ to the root of the theme directory.
+	2. Search for displayOption in the JS file and change its value to from "static" to "popup"
+	3. Verify it loads on front end by pressing the tab key on page load.
+ -->
+<script src="https://today.uic.edu/wp-content/themes/uictoday/skipto.min.js"></script>
+
+
+</head>
+
+<body role="document" class="archive tag tag-college-of-liberal-arts-and-sciences tag-3137 wp-embed-responsive">
+  
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57G9C3Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+<header id="header" role="banner">
+
+
+
+
+         		<div id="header-background">
+
+
+
+<!-- removed color wash for now.
+
+			<div class="color-wash">
+            <img src="" alt="   ">
+            </div>
+
+            -->
+
+
+
+            <div class="uic-type-wrapper">
+
+
+            <div class="last-update-timestamp">
+            	Updated: Dec 06, 2022 at 01:09 PM
+            </div><!--  last-update-timestamp   -->
+
+
+            <div class="uic-type-treatment">
+
+  			<div class="_mark">
+    		<a href="http://uic.edu" class="uic-logo-icon" aria-label="UIC logo">
+ 			<svg aria-label="UIC.edu" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ 			<title>UIC Logo</title>
+ 			<circle class="_circle" cx="27" cy="27" r="25" fill="none"></circle>
+ <path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#d50032" fill-rule="evenodd"></path>
+</svg>
+</a>
+  			</div><!--  _mark   -->
+
+  			<div class="_text">
+    		<a href="/">
+        	  Today
+      		  </a>
+ 			</div><!--  _text   -->
+
+
+			</div><!--  uic-type-treatment   -->
+
+
+
+            <!-- Put search box here -->
+<div class="search-box" aria-label="Search U I C today">
+    <form role="search" method="get" action="https://today.uic.edu/">
+     
+        <input type="text" id="s" name="s" aria-label="Search" size="25" value="" placeholder="Search">
+
+<button type="submit" value="Submit" style="border: 0;
+clip: rect( 1px, 1px, 1px, 1px );
+clip-path: inset( 50% );
+height: 1px;
+margin: -1px;
+overflow: hidden;
+padding: 0;
+position: absolute;
+width: 1px;
+word-wrap: normal;">
+Submit
+</button>
+
+    </form>
+    
+    
+</div>
+
+
+
+<!-- End search box code -->
+
+
+
+			</div><!--  uic-type-wrapper    -->
+
+
+		</div><!--  header-background   -->
+
+
+
+
+
+		<div id="main_nav" role="navigation" aria-label="Site">
+	  	 	<div class="main_nav_container"><ul id="menu-main_nav" class="menu"><li id="menu-item-57546"><a href="https://today.uic.edu/campus-news/">Campus News</a>
+<ul class="sub-menu">
+	<li id="menu-item-105508"><a href="https://today.uic.edu/category/official">Official Communications</a></li>
+	<li id="menu-item-110888"><a href="https://today.uic.edu/uic-in-the-news/">UIC in the news</a></li>
+</ul>
+</li>
+<li id="menu-item-57547"><a href="https://today.uic.edu/academics-research/">Academics &#038; Research</a></li>
+<li id="menu-item-57548"><a href="https://today.uic.edu/events/">Events</a></li>
+<li id="menu-item-67603"><a href="https://today.uic.edu/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-100210"><a href="https://today.uic.edu/resources/current-student-resources/">Current Student Resources</a></li>
+	<li id="menu-item-100209"><a href="https://today.uic.edu/resources/faculty-and-staff-resources/">Faculty and Staff Resources</a></li>
+	<li id="menu-item-96520"><a href="https://today.uic.edu/online-learning-resources-and-support/">Online Learning Resources and Support</a></li>
+	<li id="menu-item-81898"><a href="https://today.uic.edu/resources/photo-video-policies/">Photography/Video</a></li>
+	<li id="menu-item-82144"><a href="https://today.uic.edu/resources/social-media-inquiry-form/">Social Media Account Request Form</a></li>
+	<li id="menu-item-106506"><a href="https://today.uic.edu/resources/uic-social-media-guidelines-and-best-practices/">UIC Social Media Guidelines and Best Practices</a></li>
+</ul>
+</li>
+<li id="menu-item-116175"><a href="https://today.uic.edu/coronavirus/">COVID-19</a>
+<ul class="sub-menu">
+	<li id="menu-item-134123"><a href="https://today.uic.edu/tag/coronavirus">Communications</a></li>
+	<li id="menu-item-92300"><a href="https://today.uic.edu/frequently-asked-questions/">Frequently Asked Questions</a></li>
+	<li id="menu-item-105323"><a href="https://today.uic.edu/covid-19-saliva-testing/">Saliva Testing and Contact Tracing</a></li>
+	<li id="menu-item-116515"><a href="https://today.uic.edu/isolation-and-quarantine/">Isolation and exposure guidelines</a></li>
+</ul>
+</li>
+<li id="menu-item-57549"><a href="https://today.uic.edu/contact/">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-57551"><a href="https://today.uic.edu/contact/communicating-on-campus/">Communicating On Campus</a></li>
+	<li id="menu-item-57552"><a href="https://today.uic.edu/contact/communicating-on-campus/sending-announcements-dddh/">Sending Announcements / DDDH</a></li>
+	<li id="menu-item-57550"><a href="https://today.uic.edu/contact/social-media-directory/">UIC Social Media Directory</a></li>
+</ul>
+</li>
+</ul></div>	    
+
+
+      </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+</header>
+
+
+
+
+
+
+
+
+ <div id="container" role="main" aria-label="Main content" class="clearfix">
+
+
+
+
+
+
+
+
+		    <h1>All College of Liberal Arts and Sciences</h1>
+	 
+            <div class='news-release'>
+          <div class="listing-thumb">
+            <img width="150" height="150" src="https://today.uic.edu/wp-content/uploads/2022/10/Group-Photo_6x4-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="attendees at the end of the GLAS program" srcset="https://today.uic.edu/wp-content/uploads/2022/10/Group-Photo_6x4-150x150.jpg 150w, https://today.uic.edu/wp-content/uploads/2022/10/Group-Photo_6x4-160x160.jpg 160w, https://today.uic.edu/wp-content/uploads/2022/10/Group-Photo_6x4-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
+          <div class='news-release-info clearfix'>
+            <p class="date grayed">October 17, 2022</p>
+            <a href="https://today.uic.edu/new-global-asian-studies-major-a-dream-since-1991/"> New global Asian studies major &#8216;a dream since 1991&#8217; </a>
+            <p>The major is being offered in the College of Liberal Arts and Sciences and is the first of its kind in the Midwest</p>
+          </div>
+        </div>
+            <div class='news-release'>
+          <div class="listing-thumb">
+            <img width="150" height="150" src="https://today.uic.edu/wp-content/uploads/2022/09/J.T.-Wilson_THBNL-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="28 Days of Black Excellence, J.T.-Wilson" loading="lazy" srcset="https://today.uic.edu/wp-content/uploads/2022/09/J.T.-Wilson_THBNL-150x150.png 150w, https://today.uic.edu/wp-content/uploads/2022/09/J.T.-Wilson_THBNL-258x258.png 258w, https://today.uic.edu/wp-content/uploads/2022/09/J.T.-Wilson_THBNL-406x406.png 406w, https://today.uic.edu/wp-content/uploads/2022/09/J.T.-Wilson_THBNL-768x768.png 768w, https://today.uic.edu/wp-content/uploads/2022/09/J.T.-Wilson_THBNL-160x160.png 160w, https://today.uic.edu/wp-content/uploads/2022/09/J.T.-Wilson_THBNL-500x500.png 500w, https://today.uic.edu/wp-content/uploads/2022/09/J.T.-Wilson_THBNL-45x45.png 45w, https://today.uic.edu/wp-content/uploads/2022/09/J.T.-Wilson_THBNL.png 800w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
+          <div class='news-release-info clearfix'>
+            <p class="date grayed">October 11, 2022</p>
+            <a href="https://today.uic.edu/podcast/black-excellence-j-t-wilson-iii/"> Black Excellence: J.T. Wilson III </a>
+            <div class="podcast_player">
+<div class="castos-player dark-mode" data-episode="136114" data-player_id="4224465824">
+	<div class="player">
+		<div class="player__main">
+			<div class="player__artwork player__artwork-136114">
+				<img src="https://today.uic.edu/wp-content/uploads/2022/09/J.T.-Wilson_THBNL-150x150.png" alt="28 Days of Black Excellence" title="28 Days of Black Excellence">
+			</div>
+			<div class="player__body">
+				<div class="currently-playing">
+					<div class="show player__podcast-title">
+						28 Days of Black Excellence					</div>
+					<div class="episode-title player__episode-title">Black Excellence: J.T. Wilson III</div>
+				</div>
+				<div class="play-progress">
+					<div class="play-pause-controls">
+						<button title="Play" class="play-btn">
+							<span class="screen-reader-text">Play Episode</span>
+						</button>
+						<button title="Pause" class="pause-btn hide">
+							<span class="screen-reader-text">Pause Episode</span>
+						</button>
+						<img src="https://today.uic.edu/wp-content/plugins/seriously-simple-podcasting/assets/css/images/player/images/icon-loader.svg" class="ssp-loader hide"/>
+					</div>
+					<div>
+						<audio preload="none" class="clip clip-136114">
+							<source src="https://today.uic.edu/podcast-player/136114/black-excellence-j-t-wilson-iii.mp3">
+						</audio>
+						<div class="ssp-progress" title="Seek">
+							<span class="progress__filled"></span>
+						</div>
+						<div class="ssp-playback playback">
+							<div class="playback__controls">
+								<button class="player-btn__volume" title="Mute/Unmute">
+									<span class="screen-reader-text">Mute/Unmute Episode</span>
+								</button>
+								<button data-skip="-10" class="player-btn__rwd" title="Rewind 10 seconds">
+								<span class="screen-reader-text">Rewind 10 Seconds</span>
+								</button>
+								<button data-speed="1" class="player-btn__speed" title="Playback Speed">1x</button>
+								<button data-skip="30" class="player-btn__fwd" title="Fast Forward 30 seconds">
+									<span class="screen-reader-text">Fast Forward 30 seconds</span>
+								</button>
+							</div>
+							<div class="playback__timers">
+								<time class="ssp-timer">00:00</time>
+								<span>/</span>
+								<!-- We need actual duration here from the server -->
+								<time class="ssp-duration">31:25</time>
+							</div>
+						</div>
+					</div>
+				</div>
+								<nav class="player-panels-nav">
+											<button class="subscribe-btn" id="subscribe-btn-136114" title="Subscribe">Subscribe</button>
+																<button class="share-btn" id="share-btn-136114" title="Share">Share</button>
+									</nav>
+							</div>
+		</div>
+	</div>
+		<div class="player-panels player-panels-136114">
+				<div class="subscribe player-panel subscribe-136114">
+			<div class="close-btn close-btn-136114">
+				<span></span>
+				<span></span>
+			</div>
+			<div class="panel__inner">
+				<div class="subscribe-icons">
+																													<a href="https://podcasts.google.com/feed/aHR0cHM6Ly90b2RheS51aWMuZWR1L2ZlZWQvcG9kY2FzdC9ibGFjay1leGNlbGxlbmNl" target="_blank" rel="noopener noreferrer" class="google_podcasts" title="Subscribe on  Google Podcasts">
+								<span></span>
+								Google Podcasts							</a>
+																								<a href="https://open.spotify.com/show/1V2jisJvllVWnxoTrFjmCV" target="_blank" rel="noopener noreferrer" class="spotify" title="Subscribe on  Spotify">
+								<span></span>
+								Spotify							</a>
+																								<a href="https://www.stitcher.com/show/black-excellence" target="_blank" rel="noopener noreferrer" class="stitcher" title="Subscribe on  Stitcher">
+								<span></span>
+								Stitcher							</a>
+															</div>
+				<div class="player-panel-row">
+					<div class="title">
+						RSS Feed					</div>
+					<div>
+						<input value="https://today.uic.edu/feed/podcast/black-excellence" class="input-rss input-rss-136114" readonly />
+					</div>
+					<button class="copy-rss copy-rss-136114"></button>
+				</div>
+			</div>
+		</div>
+						<div class="share share-136114 player-panel">
+			<div class="close-btn close-btn-136114">
+				<span></span>
+				<span></span>
+			</div>
+			<div class="player-panel-row">
+				<div class="title">
+					Share				</div>
+				<div class="icons-holder">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=https://today.uic.edu/podcast/black-excellence-j-t-wilson-iii/&t=Black Excellence: J.T. Wilson III"
+					   target="_blank" rel="noopener noreferrer" class="share-icon facebook" title="Share on Facebook">
+						<span></span>
+					</a>
+					<a href="https://twitter.com/intent/tweet?text=https://today.uic.edu/podcast/black-excellence-j-t-wilson-iii/&url=Black Excellence: J.T. Wilson III"
+					   target="_blank" rel="noopener noreferrer" class="share-icon twitter" title="Share on Twitter">
+						<span></span>
+					</a>
+					<a href="https://today.uic.edu/podcast-player/136114/black-excellence-j-t-wilson-iii.mp3"
+					   target="_blank" rel="noopener noreferrer" class="share-icon download" title="Download" download>
+						<span></span>
+					</a>
+				</div>
+			</div>
+			<div class="player-panel-row">
+				<div class="title">
+					Link				</div>
+				<div>
+					<input value="https://today.uic.edu/podcast/black-excellence-j-t-wilson-iii/" class="input-link input-link-136114" readonly />
+				</div>
+				<button class="copy-link copy-link-136114" readonly=""></button>
+			</div>
+			<div class="player-panel-row">
+				<div class="title">
+					Embed				</div>
+				<div style="height: 10px;">
+					<input type="text" value='&lt;blockquote class=&quot;wp-embedded-content&quot; data-secret=&quot;7Gasb4ll6g&quot;&gt;&lt;a href=&quot;https://today.uic.edu/podcast/black-excellence-j-t-wilson-iii/&quot;&gt;Black Excellence: J.T. Wilson III&lt;/a&gt;&lt;/blockquote&gt;&lt;iframe sandbox=&quot;allow-scripts&quot; security=&quot;restricted&quot; src=&quot;https://today.uic.edu/podcast/black-excellence-j-t-wilson-iii/embed/#?secret=7Gasb4ll6g&quot; width=&quot;500&quot; height=&quot;350&quot; title=&quot;&#8220;Black Excellence: J.T. Wilson III&#8221; &#8212; UIC Today&quot; data-secret=&quot;7Gasb4ll6g&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; class=&quot;wp-embedded-content&quot;&gt;&lt;/iframe&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+/*! This file is auto-generated */
+!function(c,l){&quot;use strict&quot;;var e=!1,o=!1;if(l.querySelector)if(c.addEventListener)e=!0;if(c.wp=c.wp||{},c.wp.receiveEmbedMessage);else if(c.wp.receiveEmbedMessage=function(e){var t=e.data;if(!t);else if(!(t.secret||t.message||t.value));else if(/[^a-zA-Z0-9]/.test(t.secret));else{for(var r,s,a,i=l.querySelectorAll(&#039;iframe[data-secret=&quot;&#039;+t.secret+&#039;&quot;]&#039;),n=l.querySelectorAll(&#039;blockquote[data-secret=&quot;&#039;+t.secret+&#039;&quot;]&#039;),o=0;o&lt;n.length;o++)n[o].style.display=&quot;none&quot;;for(o=0;o&lt;i.length;o++)if(r=i[o],e.source!==r.contentWindow);else{if(r.removeAttribute(&quot;style&quot;),&quot;height&quot;===t.message){if(1e3&lt;(s=parseInt(t.value,10)))s=1e3;else if(~~s&lt;200)s=200;r.height=s}if(&quot;link&quot;===t.message)if(s=l.createElement(&quot;a&quot;),a=l.createElement(&quot;a&quot;),s.href=r.getAttribute(&quot;src&quot;),a.href=t.value,a.host===s.host)if(l.activeElement===r)c.top.location.href=t.value}}},e)c.addEventListener(&quot;message&quot;,c.wp.receiveEmbedMessage,!1),l.addEventListener(&quot;DOMContentLoaded&quot;,t,!1),c.addEventListener(&quot;load&quot;,t,!1);function t(){if(o);else{o=!0;for(var e,t,r,s=-1!==navigator.appVersion.indexOf(&quot;MSIE 10&quot;),a=!!navigator.userAgent.match(/Trident.*rv:11\./),i=l.querySelectorAll(&quot;iframe.wp-embedded-content&quot;),n=0;n&lt;i.length;n++){if(!(r=(t=i[n]).getAttribute(&quot;data-secret&quot;)))r=Math.random().toString(36).substr(2,10),t.src+=&quot;#?secret=&quot;+r,t.setAttribute(&quot;data-secret&quot;,r);if(s||a)(e=t.cloneNode(!0)).removeAttribute(&quot;security&quot;),t.parentNode.replaceChild(e,t);t.contentWindow.postMessage({message:&quot;ready&quot;,secret:r},&quot;*&quot;)}}}}(window,document);
+&lt;/script&gt;
+'
+					       class="input-embed input-embed-136114" readonly/>
+				</div>
+				<button class="copy-embed copy-embed-136114"></button>
+			</div>
+		</div>
+			</div>
+	
+	</div>
+<div class="podcast_meta"><aside><p><a href="https://today.uic.edu/podcast-download/136114/black-excellence-j-t-wilson-iii.mp3?ref=download" title="Black Excellence: J.T. Wilson III " class="podcast-meta-download">Download file</a> | <a href="https://today.uic.edu/podcast-download/136114/black-excellence-j-t-wilson-iii.mp3?ref=new_window" target="_blank" title="Black Excellence: J.T. Wilson III " class="podcast-meta-new-window">Play in new window</a> | <span class="podcast-meta-duration">Duration: 31:25</span> | <span class="podcast-meta-date">Recorded on October 11, 2022</span></p><p>Subscribe: <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90b2RheS51aWMuZWR1L2ZlZWQvcG9kY2FzdC9ibGFjay1leGNlbGxlbmNl" target="_blank" title="Google Podcasts" class="podcast-meta-itunes">Google Podcasts</a> | <a href="https://open.spotify.com/show/1V2jisJvllVWnxoTrFjmCV" target="_blank" title="Spotify" class="podcast-meta-itunes">Spotify</a> | <a href="https://www.stitcher.com/show/black-excellence" target="_blank" title="Stitcher" class="podcast-meta-itunes">Stitcher</a></p></aside></div></div><p>UIC alumnus J.T. Wilson III is a seasoned trial attorney and partner in the Dinsmore law firm<a href="black-excellence-j-t-wilson-iii">Transcript</a></p>
+          </div>
+        </div>
+            <div class='news-release'>
+          <div class="listing-thumb">
+            <img width="150" height="150" src="https://today.uic.edu/wp-content/uploads/2022/09/Carol-Moseley-Braun_4x6-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Carol Moseley Braun" loading="lazy" srcset="https://today.uic.edu/wp-content/uploads/2022/09/Carol-Moseley-Braun_4x6-150x150.jpg 150w, https://today.uic.edu/wp-content/uploads/2022/09/Carol-Moseley-Braun_4x6-160x160.jpg 160w, https://today.uic.edu/wp-content/uploads/2022/09/Carol-Moseley-Braun_4x6-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
+          <div class='news-release-info clearfix'>
+            <p class="date grayed">September 13, 2022</p>
+            <a href="https://today.uic.edu/podcast/black-excellence-carol-moseley-braun/"> Black Excellence: Carol Moseley Braun </a>
+            <div class="podcast_player">
+<div class="castos-player dark-mode" data-episode="136015" data-player_id="4142047594">
+	<div class="player">
+		<div class="player__main">
+			<div class="player__artwork player__artwork-136015">
+				<img src="https://today.uic.edu/wp-content/uploads/2022/09/Carol-Moseley-Braun-2-150x150.jpg" alt="28 Days of Black Excellence" title="28 Days of Black Excellence">
+			</div>
+			<div class="player__body">
+				<div class="currently-playing">
+					<div class="show player__podcast-title">
+						28 Days of Black Excellence					</div>
+					<div class="episode-title player__episode-title">Black Excellence: Carol Moseley Braun</div>
+				</div>
+				<div class="play-progress">
+					<div class="play-pause-controls">
+						<button title="Play" class="play-btn">
+							<span class="screen-reader-text">Play Episode</span>
+						</button>
+						<button title="Pause" class="pause-btn hide">
+							<span class="screen-reader-text">Pause Episode</span>
+						</button>
+						<img src="https://today.uic.edu/wp-content/plugins/seriously-simple-podcasting/assets/css/images/player/images/icon-loader.svg" class="ssp-loader hide"/>
+					</div>
+					<div>
+						<audio preload="none" class="clip clip-136015">
+							<source src="https://today.uic.edu/podcast-player/136015/black-excellence-carol-moseley-braun.mp3">
+						</audio>
+						<div class="ssp-progress" title="Seek">
+							<span class="progress__filled"></span>
+						</div>
+						<div class="ssp-playback playback">
+							<div class="playback__controls">
+								<button class="player-btn__volume" title="Mute/Unmute">
+									<span class="screen-reader-text">Mute/Unmute Episode</span>
+								</button>
+								<button data-skip="-10" class="player-btn__rwd" title="Rewind 10 seconds">
+								<span class="screen-reader-text">Rewind 10 Seconds</span>
+								</button>
+								<button data-speed="1" class="player-btn__speed" title="Playback Speed">1x</button>
+								<button data-skip="30" class="player-btn__fwd" title="Fast Forward 30 seconds">
+									<span class="screen-reader-text">Fast Forward 30 seconds</span>
+								</button>
+							</div>
+							<div class="playback__timers">
+								<time class="ssp-timer">00:00</time>
+								<span>/</span>
+								<!-- We need actual duration here from the server -->
+								<time class="ssp-duration">18:45</time>
+							</div>
+						</div>
+					</div>
+				</div>
+								<nav class="player-panels-nav">
+											<button class="subscribe-btn" id="subscribe-btn-136015" title="Subscribe">Subscribe</button>
+																<button class="share-btn" id="share-btn-136015" title="Share">Share</button>
+									</nav>
+							</div>
+		</div>
+	</div>
+		<div class="player-panels player-panels-136015">
+				<div class="subscribe player-panel subscribe-136015">
+			<div class="close-btn close-btn-136015">
+				<span></span>
+				<span></span>
+			</div>
+			<div class="panel__inner">
+				<div class="subscribe-icons">
+																													<a href="https://podcasts.google.com/feed/aHR0cHM6Ly90b2RheS51aWMuZWR1L2ZlZWQvcG9kY2FzdC9ibGFjay1leGNlbGxlbmNl" target="_blank" rel="noopener noreferrer" class="google_podcasts" title="Subscribe on  Google Podcasts">
+								<span></span>
+								Google Podcasts							</a>
+																								<a href="https://open.spotify.com/show/1V2jisJvllVWnxoTrFjmCV" target="_blank" rel="noopener noreferrer" class="spotify" title="Subscribe on  Spotify">
+								<span></span>
+								Spotify							</a>
+																								<a href="https://www.stitcher.com/show/black-excellence" target="_blank" rel="noopener noreferrer" class="stitcher" title="Subscribe on  Stitcher">
+								<span></span>
+								Stitcher							</a>
+															</div>
+				<div class="player-panel-row">
+					<div class="title">
+						RSS Feed					</div>
+					<div>
+						<input value="https://today.uic.edu/feed/podcast/black-excellence" class="input-rss input-rss-136015" readonly />
+					</div>
+					<button class="copy-rss copy-rss-136015"></button>
+				</div>
+			</div>
+		</div>
+						<div class="share share-136015 player-panel">
+			<div class="close-btn close-btn-136015">
+				<span></span>
+				<span></span>
+			</div>
+			<div class="player-panel-row">
+				<div class="title">
+					Share				</div>
+				<div class="icons-holder">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=https://today.uic.edu/podcast/black-excellence-carol-moseley-braun/&t=Black Excellence: Carol Moseley Braun"
+					   target="_blank" rel="noopener noreferrer" class="share-icon facebook" title="Share on Facebook">
+						<span></span>
+					</a>
+					<a href="https://twitter.com/intent/tweet?text=https://today.uic.edu/podcast/black-excellence-carol-moseley-braun/&url=Black Excellence: Carol Moseley Braun"
+					   target="_blank" rel="noopener noreferrer" class="share-icon twitter" title="Share on Twitter">
+						<span></span>
+					</a>
+					<a href="https://today.uic.edu/podcast-player/136015/black-excellence-carol-moseley-braun.mp3"
+					   target="_blank" rel="noopener noreferrer" class="share-icon download" title="Download" download>
+						<span></span>
+					</a>
+				</div>
+			</div>
+			<div class="player-panel-row">
+				<div class="title">
+					Link				</div>
+				<div>
+					<input value="https://today.uic.edu/podcast/black-excellence-carol-moseley-braun/" class="input-link input-link-136015" readonly />
+				</div>
+				<button class="copy-link copy-link-136015" readonly=""></button>
+			</div>
+			<div class="player-panel-row">
+				<div class="title">
+					Embed				</div>
+				<div style="height: 10px;">
+					<input type="text" value='&lt;blockquote class=&quot;wp-embedded-content&quot; data-secret=&quot;M0eWKwzMTQ&quot;&gt;&lt;a href=&quot;https://today.uic.edu/podcast/black-excellence-carol-moseley-braun/&quot;&gt;Black Excellence: Carol Moseley Braun&lt;/a&gt;&lt;/blockquote&gt;&lt;iframe sandbox=&quot;allow-scripts&quot; security=&quot;restricted&quot; src=&quot;https://today.uic.edu/podcast/black-excellence-carol-moseley-braun/embed/#?secret=M0eWKwzMTQ&quot; width=&quot;500&quot; height=&quot;350&quot; title=&quot;&#8220;Black Excellence: Carol Moseley Braun&#8221; &#8212; UIC Today&quot; data-secret=&quot;M0eWKwzMTQ&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; class=&quot;wp-embedded-content&quot;&gt;&lt;/iframe&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+/*! This file is auto-generated */
+!function(c,l){&quot;use strict&quot;;var e=!1,o=!1;if(l.querySelector)if(c.addEventListener)e=!0;if(c.wp=c.wp||{},c.wp.receiveEmbedMessage);else if(c.wp.receiveEmbedMessage=function(e){var t=e.data;if(!t);else if(!(t.secret||t.message||t.value));else if(/[^a-zA-Z0-9]/.test(t.secret));else{for(var r,s,a,i=l.querySelectorAll(&#039;iframe[data-secret=&quot;&#039;+t.secret+&#039;&quot;]&#039;),n=l.querySelectorAll(&#039;blockquote[data-secret=&quot;&#039;+t.secret+&#039;&quot;]&#039;),o=0;o&lt;n.length;o++)n[o].style.display=&quot;none&quot;;for(o=0;o&lt;i.length;o++)if(r=i[o],e.source!==r.contentWindow);else{if(r.removeAttribute(&quot;style&quot;),&quot;height&quot;===t.message){if(1e3&lt;(s=parseInt(t.value,10)))s=1e3;else if(~~s&lt;200)s=200;r.height=s}if(&quot;link&quot;===t.message)if(s=l.createElement(&quot;a&quot;),a=l.createElement(&quot;a&quot;),s.href=r.getAttribute(&quot;src&quot;),a.href=t.value,a.host===s.host)if(l.activeElement===r)c.top.location.href=t.value}}},e)c.addEventListener(&quot;message&quot;,c.wp.receiveEmbedMessage,!1),l.addEventListener(&quot;DOMContentLoaded&quot;,t,!1),c.addEventListener(&quot;load&quot;,t,!1);function t(){if(o);else{o=!0;for(var e,t,r,s=-1!==navigator.appVersion.indexOf(&quot;MSIE 10&quot;),a=!!navigator.userAgent.match(/Trident.*rv:11\./),i=l.querySelectorAll(&quot;iframe.wp-embedded-content&quot;),n=0;n&lt;i.length;n++){if(!(r=(t=i[n]).getAttribute(&quot;data-secret&quot;)))r=Math.random().toString(36).substr(2,10),t.src+=&quot;#?secret=&quot;+r,t.setAttribute(&quot;data-secret&quot;,r);if(s||a)(e=t.cloneNode(!0)).removeAttribute(&quot;security&quot;),t.parentNode.replaceChild(e,t);t.contentWindow.postMessage({message:&quot;ready&quot;,secret:r},&quot;*&quot;)}}}}(window,document);
+&lt;/script&gt;
+'
+					       class="input-embed input-embed-136015" readonly/>
+				</div>
+				<button class="copy-embed copy-embed-136015"></button>
+			</div>
+		</div>
+			</div>
+	
+	</div>
+<div class="podcast_meta"><aside><p><a href="https://today.uic.edu/podcast-download/136015/black-excellence-carol-moseley-braun.mp3?ref=download" title="Black Excellence: Carol Moseley Braun " class="podcast-meta-download">Download file</a> | <a href="https://today.uic.edu/podcast-download/136015/black-excellence-carol-moseley-braun.mp3?ref=new_window" target="_blank" title="Black Excellence: Carol Moseley Braun " class="podcast-meta-new-window">Play in new window</a> | <span class="podcast-meta-duration">Duration: 18:45</span> | <span class="podcast-meta-date">Recorded on September 13, 2022</span></p><p>Subscribe: <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90b2RheS51aWMuZWR1L2ZlZWQvcG9kY2FzdC9ibGFjay1leGNlbGxlbmNl" target="_blank" title="Google Podcasts" class="podcast-meta-itunes">Google Podcasts</a> | <a href="https://open.spotify.com/show/1V2jisJvllVWnxoTrFjmCV" target="_blank" title="Spotify" class="podcast-meta-itunes">Spotify</a> | <a href="https://www.stitcher.com/show/black-excellence" target="_blank" title="Stitcher" class="podcast-meta-itunes">Stitcher</a></p></aside></div></div><p>UIC alumna Carol Moseley Braun is known for her over three decades of trailblazing public service <a href="https://today.uic.edu/podcast/black-excellence-carol-moseley-braun">Transcript</a></p>
+          </div>
+        </div>
+            <div class='news-release'>
+          <div class="listing-thumb">
+            <img width="150" height="150" src="https://today.uic.edu/wp-content/uploads/2022/04/Ruixuan-Gao_1000by1146_4x6-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Ruixuan Gao, UIC assistant professor of biological sciences and chemistry" loading="lazy" srcset="https://today.uic.edu/wp-content/uploads/2022/04/Ruixuan-Gao_1000by1146_4x6-150x150.jpg 150w, https://today.uic.edu/wp-content/uploads/2022/04/Ruixuan-Gao_1000by1146_4x6-160x160.jpg 160w, https://today.uic.edu/wp-content/uploads/2022/04/Ruixuan-Gao_1000by1146_4x6-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
+          <div class='news-release-info clearfix'>
+            <p class="date grayed">August 4, 2022</p>
+            <a href="https://today.uic.edu/uic-researcher-wins-mcknight-award-for-neuroscience-innovations/"> UIC researcher wins McKnight Award for neuroscience innovations </a>
+            <p>Ruixuan Gao to develop new imaging technologies for neuroscience and neuropathology research</p>
+          </div>
+        </div>
+            <div class='news-release'>
+          <div class="listing-thumb">
+            <img width="150" height="150" src="https://today.uic.edu/wp-content/uploads/2018/04/2018.Engel_.Kathryn03-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Kathryn Engel; Silver Circle Award Winner" loading="lazy" srcset="https://today.uic.edu/wp-content/uploads/2018/04/2018.Engel_.Kathryn03-150x150.jpg 150w, https://today.uic.edu/wp-content/uploads/2018/04/2018.Engel_.Kathryn03-160x160.jpg 160w, https://today.uic.edu/wp-content/uploads/2018/04/2018.Engel_.Kathryn03-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
+          <div class='news-release-info clearfix'>
+            <p class="date grayed">August 3, 2022</p>
+            <a href="https://today.uic.edu/mayor-selects-uic-lecturer-for-paris-delegation/"> Mayor selects UIC lecturer for Paris delegation </a>
+            <p>Kathryn Engel helps advance the work that UIC is doing in Paris</p>
+          </div>
+        </div>
+            <div class='news-release'>
+          <div class="listing-thumb">
+            <img width="150" height="150" src="https://today.uic.edu/wp-content/uploads/2022/06/062322_Summer-Sunrise_JC0006-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://today.uic.edu/wp-content/uploads/2022/06/062322_Summer-Sunrise_JC0006-150x150.jpg 150w, https://today.uic.edu/wp-content/uploads/2022/06/062322_Summer-Sunrise_JC0006-160x160.jpg 160w, https://today.uic.edu/wp-content/uploads/2022/06/062322_Summer-Sunrise_JC0006-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
+          <div class='news-release-info clearfix'>
+            <p class="date grayed">August 1, 2022</p>
+            <a href="https://today.uic.edu/nsf-grants-10m-for-collaborative-data-science-institute-in-chicago/"> NSF grants $10M for collaborative data science institute in Chicago </a>
+            <p>UIC leads initiative in partnership with four Chicago area university research centers </p>
+          </div>
+        </div>
+            <div class='news-release'>
+          <div class="listing-thumb">
+            <img width="150" height="150" src="https://today.uic.edu/wp-content/uploads/2020/03/022720_ROY-Stephanie-Cologna_JC0062-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://today.uic.edu/wp-content/uploads/2020/03/022720_ROY-Stephanie-Cologna_JC0062-150x150.jpg 150w, https://today.uic.edu/wp-content/uploads/2020/03/022720_ROY-Stephanie-Cologna_JC0062-160x160.jpg 160w, https://today.uic.edu/wp-content/uploads/2020/03/022720_ROY-Stephanie-Cologna_JC0062-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
+          <div class='news-release-info clearfix'>
+            <p class="date grayed">July 7, 2022</p>
+            <a href="https://today.uic.edu/uic-chemist-receives-2022-scialog-collaborative-innovation-award/"> UIC chemist receives 2022 Scialog Collaborative Innovation Award </a>
+            <p>Stephanie Cologna&#8217;s project aims to better understand communication between the gut and the brain as it relates to Parkinson&#8217;s disease</p>
+          </div>
+        </div>
+            <div class='news-release'>
+          <div class="listing-thumb">
+            <img width="150" height="150" src="https://today.uic.edu/wp-content/uploads/2019/10/MC-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Margena Christian" loading="lazy" srcset="https://today.uic.edu/wp-content/uploads/2019/10/MC-150x150.png 150w, https://today.uic.edu/wp-content/uploads/2019/10/MC-258x258.png 258w, https://today.uic.edu/wp-content/uploads/2019/10/MC-160x160.png 160w, https://today.uic.edu/wp-content/uploads/2019/10/MC-45x45.png 45w, https://today.uic.edu/wp-content/uploads/2019/10/MC.png 400w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
+          <div class='news-release-info clearfix'>
+            <p class="date grayed">June 2, 2022</p>
+            <a href="https://today.uic.edu/uic-lecturer-awarded-fellowship-from-the-historymakers/"> UIC lecturer awarded fellowship from The HistoryMakers </a>
+            <p>Margena Christian to incorporate The HistoryMakers Digital Archive within English course</p>
+          </div>
+        </div>
+            <div class='news-release'>
+          <div class="listing-thumb">
+            <img width="150" height="150" src="https://today.uic.edu/wp-content/uploads/2022/04/Ruixuan-Gao_1000by1146_4x6-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Ruixuan Gao, UIC assistant professor of biological sciences and chemistry" loading="lazy" srcset="https://today.uic.edu/wp-content/uploads/2022/04/Ruixuan-Gao_1000by1146_4x6-150x150.jpg 150w, https://today.uic.edu/wp-content/uploads/2022/04/Ruixuan-Gao_1000by1146_4x6-160x160.jpg 160w, https://today.uic.edu/wp-content/uploads/2022/04/Ruixuan-Gao_1000by1146_4x6-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
+          <div class='news-release-info clearfix'>
+            <p class="date grayed">May 16, 2022</p>
+            <a href="https://today.uic.edu/uic-scientist-named-2022-searle-scholar/"> UIC scientist named 2022 Searle Scholar </a>
+            <p>Ruixuan Gao is the second UIC scholar to receive the award</p>
+          </div>
+        </div>
+            <div class='news-release'>
+          <div class="listing-thumb">
+            <img width="150" height="150" src="https://today.uic.edu/wp-content/uploads/2021/11/111821_Sonya-Gupta_JC0302-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://today.uic.edu/wp-content/uploads/2021/11/111821_Sonya-Gupta_JC0302-150x150.jpg 150w, https://today.uic.edu/wp-content/uploads/2021/11/111821_Sonya-Gupta_JC0302-160x160.jpg 160w, https://today.uic.edu/wp-content/uploads/2021/11/111821_Sonya-Gupta_JC0302-45x45.jpg 45w" sizes="(max-width: 150px) 100vw, 150px" />          </div>
+          <div class='news-release-info clearfix'>
+            <p class="date grayed">May 5, 2022</p>
+            <a href="https://today.uic.edu/2022-riddle-prize-winner-sonya-gupta/"> 2022 Riddle Prize winner Sonya Gupta </a>
+            <p>Before matriculating to medical school, Gupta&#8217;s next stop is Harvard University</p>
+          </div>
+        </div>
+        
+    <!-- Creates paginated archive pages -->
+    
+     <div class="archivepaged">
+      <span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://today.uic.edu/tag/college-of-liberal-arts-and-sciences/page/2/">2</a>
+<a class="page-numbers" href="https://today.uic.edu/tag/college-of-liberal-arts-and-sciences/page/3/">3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://today.uic.edu/tag/college-of-liberal-arts-and-sciences/page/9/">9</a>
+<a class="next page-numbers" href="https://today.uic.edu/tag/college-of-liberal-arts-and-sciences/page/2/">Next &raquo;</a>     </div>
+  
+
+<!-- Need 2 closing divs before footer to close divs from page header include -->
+	</div>
+    
+</div>    
+
+<div class="clearThis">&nbsp;</div>
+
+
+
+
+
+    
+
+    <footer id="footer" class="footer u-dark-region" role="contentinfo">
+
+
+  <div class="footer-contact">
+    <div class="l-full">
+
+
+            <div class="uic-type-wrapper-footer">
+
+            <div class="uic-type-treatment-footer">
+            
+  			<div class="_mark"> 
+    		<a href="http://uic.edu" class="uic-logo-icon" aria-label="UIC logo">
+ 			<svg aria-label="UIC.edu" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ 			<title>UIC Logo</title>
+ 			<circle class="_circle" cx="27" cy="27" r="25" fill="none"></circle>
+ <path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#d50032" fill-rule="evenodd"></path>
+</svg>
+</a>
+  			</div><!--  _mark   -->   
+            
+  			<div class="_text">
+    		<a href="/">
+        	  Today
+      		  </a>
+ 			</div><!--  _text   -->
+
+            
+			</div><!--  uic-type-treatment-footer   -->
+
+
+			</div><!--  uic-type-wrapper-footer    -->
+ 
+
+
+  <div class="_contact">
+  
+  
+    <h2>UIC Today Contact</h2>
+    
+    
+		<div class="site-address">Office of Strategic Marketing and Communications<br />
+		601 S. Morgan St., 1320 UH, Chicago, IL 60607</div>
+      
+      
+		<div class="site-email"><a href="mailto:uictoday@uic.edu">uictoday@uic.edu</a></div>
+        
+        
+		<div aria-label="Social Media Accounts" class="_social" role="navigation">
+			<h2 class="assistive-text">Social Media Accounts</h2> 
+  			<ul class="site-social-links">
+            <li><a href="https://www.facebook.com/uicnews "><img src="/wp-content/themes/uictoday/images/social-media-icons/facebook.png" alt="Facebook"></a></li>
+            <li><a href="https://instagram.com/thisisuic/"><img src="/wp-content/themes/uictoday/images/social-media-icons/instagram.png" alt="Instagram"></a></li>
+            <li><a href="https://today.uic.edu/campus-news/campus-newspaper/subscribe-to-uic-today"><img src="/wp-content/themes/uictoday/images/social-media-icons/rss.png" alt="RSS feed"></a></li>
+            <li><a href="https://uicscience.tumblr.com/"><img src="/wp-content/themes/uictoday/images/social-media-icons/tumblr.png" alt="tumblr"></a></li>
+            <li><a href="https://twitter.com/UICnews"><img src="/wp-content/themes/uictoday/images/social-media-icons/twitter.png" alt="Twitter"></a></li>
+            <li><a href="https://www.youtube.com/user/uicmedia"><img src="/wp-content/themes/uictoday/images/social-media-icons/youtube.png" alt="YouTube"></a></li>
+            <li><a href="https://today.uic.edu/contact/social-media-directory"><img src="/wp-content/themes/uictoday/images/social-media-icons/directory.png" alt="Social media directory"></a></li>
+            </ul>
+            
+            
+		</div>        
+        
+        
+  </div>
+
+    
+
+       
+
+
+   
+
+
+
+
+
+		<div id="quicklinks_footer" role="navigation" aria-label="Quick Links" >
+			<div id="quicklinks_footer_container">
+	  	 	<div class="menu-footer-quicklinks-container"><ul id="menu-footer-quicklinks" class="menu"><li id="menu-item-57564"><a href="/news-release/news-release/">For the Media</a></li>
+<li id="menu-item-57555"><a href="https://today.uic.edu/experts-guide/">Experts Guide</a></li>
+<li id="menu-item-57577"><a href="https://today.uic.edu/contact/communicating-on-campus/submit-announcements/">Submit Announcements</a></li>
+<li id="menu-item-57578"><a href="https://today.uic.edu/submit-an-event/">Submit an Event</a></li>
+<li id="menu-item-67562"><a href="https://today.uic.edu/campus-news/campus-newspaper/subscribe-to-uic-today/">Subscribe to UIC Today</a></li>
+<li id="menu-item-110887"><a href="https://today.uic.edu/uic-in-the-news/">UIC in the news</a></li>
+</ul></div>        	</div>
+	    </div>      
+
+
+</div>
+
+    
+    </div>
+  </div>
+
+
+
+
+<div class="footer-wrapper-uic-menu-legal">
+
+
+  <div class="footer-uic-menu">
+    <div class="ll-full">
+
+      <div role="navigation" aria-label="UIC.edu Links" >
+  <h2 class="assistive-text">UIC.edu links</h2>
+  <ul class="uic-footer-menu">
+    <li><a href="http://uic.edu/">UIC.edu</a></li>
+    <li><a href="http://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+    <li><a href="http://uicflames.com/">Athletics</a></li>
+    <li><a href="http://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+    <li><a href="http://disabilityresources.uic.edu/">Disability Resources</a></li>
+    <li><a href="http://emergency.uic.edu/">Emergency Information</a></li>
+    <li><a href="http://events.uic.edu/">Event Calendar</a></li>
+    <li><a href="http://uic.edu/about/job-opportunities">Job Openings</a></li>
+    <li><a href="http://library.uic.edu/">Library</a></li>
+    <li><a href="http://maps.uic.edu/">Maps</a></li>
+    <li><a href="http://hospital.uillinois.edu/">UI Health</a></li>
+    <li><a href="http://dos.uic.edu/studentveteranaffairs.shtml">Veterans Affairs</a></li>
+  </ul>
+</div>
+
+    </div><!--  ll-full   -->
+    
+    <div class="m-full">
+    <img src="/wp-content/themes/uictoday/images/uihealth.png" alt="UI Health and UIC co-branded logo">
+    </div><!--  m-full   -->
+
+    <div class="n-full" style="padding:59px;">
+      <div class="cookie-banner">
+        <div id="footer-bottom">
+          <!-- OneTrust Cookies Settings button start -->
+          <button id="ot-sdk-btn" class="ot-sdk-show-settings" type="button">Cookie Settings</button>
+          <!-- OneTrust Cookies Settings button end -->
+        </div>
+      </div>
+    </div><!--  m-full   -->
+
+    
+  </div><!--  footer-uic-menu   --> 
+
+
+
+
+  <div class="footer-legal">
+    <div class="l-full">
+
+      <div class="site-copyright">
+  &copy; 2022 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Statement</a>
+</div>
+
+<div class="campuses" role="navigation" aria-label="University of Illinois campus web sites">
+  <h2 class="assistive-text">Campuses</h2>
+  <ul class="campuses-list">
+    <li><a href="https://uillinois.edu/">University of Illinois System</a></li>
+    <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+    <li><a href="https://uis.edu/">Springfield</a></li>
+  </ul>
+</div>
+
+    </div>
+
+
+
+</div><!--  footer-wrapper-uic-menu-legal   --> 
+
+
+
+<!-- Google Translate widget -->
+<h2 class="assistive-text">Google Translate</h2>
+<div class="google-translate">
+  <div id="google_translate_element">
+  </div>
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+      }
+  </script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+
+
+    
+    
+  </div>
+
+</footer>
+
+
+
+
+
+</div>
+
+
+<script>requestAnimationFrame(() => document.body.classList.add( "stk--anim-init" ))</script><script type="text/javascript">
+  document.write(unescape("%3Cscript src='//www.uic.edu/inc/emergency/alert.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<link rel='stylesheet' id='ssp-castos-player-css'  href='https://today.uic.edu/wp-content/plugins/seriously-simple-podcasting/assets/css/castos-player.css?ver=2.15.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/seriously-simple-podcasting/assets/js/castos-player.js?ver=2.15.2' id='ssp-castos-player-js'></script>
+
+</body>
+</html>

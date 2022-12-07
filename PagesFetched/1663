@@ -1,0 +1,1354 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<!-- OneTrust Cookies Consent Notice start, uic.edu -->
+<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="c2f2262d-b694-4eba-8f4b-142c102b685a"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end, uic.edu -->
+
+
+<!-- Google Analytics Code -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-20665772-1', 'auto');
+    ga('create', 'UA-4402713-9', 'auto', 'todayTracker');
+    ga('send', 'pageview');
+    ga('todayTracker.send', 'pageview');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-57G9C3Q');</script>
+<!-- End Google Tag Manager -->
+  
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Events | UIC Today</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://today.uic.edu/wp-content/themes/uictoday/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://today.uic.edu/wp-content/themes/uictoday/css/style.min.css" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://today.uic.edu/feed" />
+<link rel="shortcut icon" href="https://today.uic.edu/wp-content/themes/uictoday/favicon.ico" />
+
+<!-- Favicons -->
+<!-- generated at https://favicon.io/favicon-converter/ -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//today.uic.edu' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/today.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://today.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ugb-style-css-v2-css'  href='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2.css?ver=3.4.2' type='text/css' media='all' />
+<style id='ugb-style-css-v2-inline-css' type='text/css'>
+:root {
+			--content-width: 900px;
+		}
+</style>
+<link rel='stylesheet' id='ugb-style-css-premium-v2-css'  href='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2__premium_only.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://today.uic.edu/wp-includes/css/dist/components/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='https://today.uic.edu/wp-includes/css/dist/block-editor/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='https://today.uic.edu/wp-includes/css/dist/nux/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-reusable-blocks-css'  href='https://today.uic.edu/wp-includes/css/dist/reusable-blocks/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='https://today.uic.edu/wp-includes/css/dist/editor/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sld_block-cgb-style-css-css'  href='https://today.uic.edu/wp-content/plugins/simple-link-directory/gutenberg/sld-block/dist/blocks.style.build.css?ver=6.0.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='events-manager-css'  href='https://today.uic.edu/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wow-icons-fa-css'  href='https://today.uic.edu/wp-content/plugins/wow-icons//assets/fontawesome/font-awesome.min.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='upw_theme_standard-css'  href='https://today.uic.edu/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://today.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.14' type='text/css' media='all' />
+<style id='tablepress-default-inline-css' type='text/css'>
+.tablepress-id-1 .column-1{vertical-align:middle}.tablepress-id-1 tbody td{font-size:15px}.tablepress-id-1{width:auto important!}.tablepress-id-1 img{margin:0!important}.tablepress-id-6 .column-1{vertical-align:middle}.tablepress-id-6 tbody td{font-size:15px}.tablepress-id-6{width:auto important!}.tablepress-id-6 img{margin:0!important}.tablepress-id-3 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-3 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-3 .odd td{background-color:#e6e6e6}.tablepress-id-3 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-3 .column-1{width:50%}.tablepress-id-4 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-4 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-4 .odd td{background-color:#e6e6e6}.tablepress-id-4 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-4 .column-1{width:50%}.tablepress-id-5 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-5 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-5 .odd td{background-color:#e6e6e6}.tablepress-id-5 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-5 .column-1{width:50%}
+</style>
+<link rel='stylesheet' id='ari-fancybox-css'  href='https://today.uic.edu/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.css?ver=1.3.9' type='text/css' media='all' />
+<script type='text/javascript' id='ugb-block-frontend-js-v2-js-extra'>
+/* <![CDATA[ */
+var stackable = {"restUrl":"https:\/\/today.uic.edu\/wp-json\/","googleApiKey":"","i18n":{"missingMapApiKey":"This map block uses settings that require a Google Maps API key, but it is missing. Please enter your Google Maps API key in the Stackable settings, or edit this map block."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2.js?ver=3.4.2' id='ugb-block-frontend-js-v2-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2__premium_only.js?ver=3.4.2' id='ugb-block-frontend-js-premium-v2-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.1' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/events-manager/includes/external/selectize/js/standalone/selectize.js?ver=6.1.1' id='em-selectize-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.1' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.1' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.1' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.1' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.13.1' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.1' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' id='events-manager-js-extra'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/today.uic.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/today.uic.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"yy-mm-dd","ui_css":"https:\/\/today.uic.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui\/build.min.css","selectize_css":"https:\/\/today.uic.edu\/wp-content\/plugins\/events-manager\/includes\/external\/selectize\/css\/selectize.bootstrap5.min.css","show24hours":"0","is_ssl":"1","autocomplete_limit":"10","calendar":{"breakpoints":{"small":560,"medium":908,"large":false}},"datepicker":{"format":"m\/d\/Y"},"search":{"breakpoints":{"small":650,"medium":850,"full":false}},"txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=6.1.1' id='events-manager-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/wpo365-login/apps/dist/pintra-redirect.js?ver=20.1' id='pintraredirectjs-js' async></script>
+<script type='text/javascript' id='ari-fancybox-js-extra'>
+/* <![CDATA[ */
+var ARI_FANCYBOX = {"lightbox":{"touch":{"vertical":true,"momentum":true},"buttons":["slideShow","fullScreen","thumbs","close"],"lang":"custom","i18n":{"custom":{"PREV":"Previous","NEXT":"Next","PLAY_START":"Start slideshow (P)","PLAY_STOP":"Stop slideshow (P)","FULL_SCREEN":"Full screen (F)","THUMBS":"Thumbnails (G)","CLOSE":"Close (Esc)","ERROR":"The requested content cannot be loaded. <br\/> Please try again later."}}},"convert":{},"viewers":{"pdfjs":{"url":"https:\/\/today.uic.edu\/wp-content\/plugins\/ari-fancy-lightbox\/assets\/pdfjs\/web\/viewer.html"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.js?ver=1.3.9' id='ari-fancybox-js'></script>
+<link rel="https://api.w.org/" href="https://today.uic.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://today.uic.edu/wp-json/wp/v2/pages/543" /><link rel="canonical" href="https://today.uic.edu/events/" />
+<link rel='shortlink' href='https://today.uic.edu/?p=543' />
+<link rel="alternate" type="application/json+oembed" href="https://today.uic.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftoday.uic.edu%2Fevents%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://today.uic.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftoday.uic.edu%2Fevents%2F&#038;format=xml" />
+
+<link rel="alternate" type="application/rss+xml" title="Podcast RSS feed" href="https://today.uic.edu/feed/podcast" />
+
+<script type="text/javascript">
+            var ajaxurl = "https://today.uic.edu/wp-admin/admin-ajax.php";
+            var qc_sld_get_ajax_nonce = "2daad3e683";
+         </script><style type="text/css">BODY .fancybox-container{z-index:200000}BODY .fancybox-is-open .fancybox-bg{opacity:0.87}BODY .fancybox-bg {background-color:#0f0f11}BODY .fancybox-thumbs {background-color:#ffffff}</style>
+<!-- Put the following javascript before the closing </head> tag. -->
+
+<script>
+  (function() {
+    var cx = '009511351313755808885:xdz07yl93pe';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<!-- This library is for the moment function in restrict-form-submit-date-manual.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.26.0/moment.min.js"></script>
+
+<!--
+skipto accessibility feature
+	How to update:
+	1. Copy the latest version of skipto.min.js from https://github.com/paypal/skipto/ to the root of the theme directory.
+	2. Search for displayOption in the JS file and change its value to from "static" to "popup"
+	3. Verify it loads on front end by pressing the tab key on page load.
+ -->
+<script src="https://today.uic.edu/wp-content/themes/uictoday/skipto.min.js"></script>
+
+
+</head>
+
+<body role="document" class="page-template-default page page-id-543 wp-embed-responsive">
+  
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57G9C3Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+<header id="header" role="banner">
+
+
+
+
+         		<div id="header-background">
+
+
+
+<!-- removed color wash for now.
+
+			<div class="color-wash">
+            <img src="" alt="   ">
+            </div>
+
+            -->
+
+
+
+            <div class="uic-type-wrapper">
+
+
+            <div class="last-update-timestamp">
+            	Updated: Dec 06, 2022 at 01:09 PM
+            </div><!--  last-update-timestamp   -->
+
+
+            <div class="uic-type-treatment">
+
+  			<div class="_mark">
+    		<a href="http://uic.edu" class="uic-logo-icon" aria-label="UIC logo">
+ 			<svg aria-label="UIC.edu" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ 			<title>UIC Logo</title>
+ 			<circle class="_circle" cx="27" cy="27" r="25" fill="none"></circle>
+ <path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#d50032" fill-rule="evenodd"></path>
+</svg>
+</a>
+  			</div><!--  _mark   -->
+
+  			<div class="_text">
+    		<a href="/">
+        	  Today
+      		  </a>
+ 			</div><!--  _text   -->
+
+
+			</div><!--  uic-type-treatment   -->
+
+
+
+            <!-- Put search box here -->
+<div class="search-box" aria-label="Search U I C today">
+    <form role="search" method="get" action="https://today.uic.edu/">
+     
+        <input type="text" id="s" name="s" aria-label="Search" size="25" value="" placeholder="Search">
+
+<button type="submit" value="Submit" style="border: 0;
+clip: rect( 1px, 1px, 1px, 1px );
+clip-path: inset( 50% );
+height: 1px;
+margin: -1px;
+overflow: hidden;
+padding: 0;
+position: absolute;
+width: 1px;
+word-wrap: normal;">
+Submit
+</button>
+
+    </form>
+    
+    
+</div>
+
+
+
+<!-- End search box code -->
+
+
+
+			</div><!--  uic-type-wrapper    -->
+
+
+		</div><!--  header-background   -->
+
+
+
+
+
+		<div id="main_nav" role="navigation" aria-label="Site">
+	  	 	<div class="main_nav_container"><ul id="menu-main_nav" class="menu"><li id="menu-item-57546"><a href="https://today.uic.edu/campus-news/">Campus News</a>
+<ul class="sub-menu">
+	<li id="menu-item-105508"><a href="https://today.uic.edu/category/official">Official Communications</a></li>
+	<li id="menu-item-110888"><a href="https://today.uic.edu/uic-in-the-news/">UIC in the news</a></li>
+</ul>
+</li>
+<li id="menu-item-57547"><a href="https://today.uic.edu/academics-research/">Academics &#038; Research</a></li>
+<li id="menu-item-57548"><a href="https://today.uic.edu/events/" aria-current="page">Events</a></li>
+<li id="menu-item-67603"><a href="https://today.uic.edu/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-100210"><a href="https://today.uic.edu/resources/current-student-resources/">Current Student Resources</a></li>
+	<li id="menu-item-100209"><a href="https://today.uic.edu/resources/faculty-and-staff-resources/">Faculty and Staff Resources</a></li>
+	<li id="menu-item-96520"><a href="https://today.uic.edu/online-learning-resources-and-support/">Online Learning Resources and Support</a></li>
+	<li id="menu-item-81898"><a href="https://today.uic.edu/resources/photo-video-policies/">Photography/Video</a></li>
+	<li id="menu-item-82144"><a href="https://today.uic.edu/resources/social-media-inquiry-form/">Social Media Account Request Form</a></li>
+	<li id="menu-item-106506"><a href="https://today.uic.edu/resources/uic-social-media-guidelines-and-best-practices/">UIC Social Media Guidelines and Best Practices</a></li>
+</ul>
+</li>
+<li id="menu-item-116175"><a href="https://today.uic.edu/coronavirus/">COVID-19</a>
+<ul class="sub-menu">
+	<li id="menu-item-134123"><a href="https://today.uic.edu/tag/coronavirus">Communications</a></li>
+	<li id="menu-item-92300"><a href="https://today.uic.edu/frequently-asked-questions/">Frequently Asked Questions</a></li>
+	<li id="menu-item-105323"><a href="https://today.uic.edu/covid-19-saliva-testing/">Saliva Testing and Contact Tracing</a></li>
+	<li id="menu-item-116515"><a href="https://today.uic.edu/isolation-and-quarantine/">Isolation and exposure guidelines</a></li>
+</ul>
+</li>
+<li id="menu-item-57549"><a href="https://today.uic.edu/contact/">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-57551"><a href="https://today.uic.edu/contact/communicating-on-campus/">Communicating On Campus</a></li>
+	<li id="menu-item-57552"><a href="https://today.uic.edu/contact/communicating-on-campus/sending-announcements-dddh/">Sending Announcements / DDDH</a></li>
+	<li id="menu-item-57550"><a href="https://today.uic.edu/contact/social-media-directory/">UIC Social Media Directory</a></li>
+</ul>
+</li>
+</ul></div>	    
+
+
+      </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+</header>
+
+
+
+
+
+
+
+
+ <div id="container" role="main" aria-label="Main content" class="clearfix">
+
+
+
+
+
+
+
+
+	<div id="content">
+		<h1>Events</h1>
+		<p><div id="em-wrapper"><h2><a href="https://today.uic.edu/submit-an-event">Submit your events</a></h2>
+<p>All postings for Research Subjects should be <a href="https://today.uic.edu/contact/communicating-on-campus/submit-announcements">submitted to Announcements</a>.</p>
+<p><div class="em em-search has-search-main has-views has-advanced advanced-mode-modal advanced-hidden em-events-search" id="em-search-2052339481" data-view="list">
+	<form action="https://today.uic.edu/events/" method="post" class="em-search-form" id="em-search-form-2052339481">
+		<input type="hidden" name="action" value="search_events" />
+		<input type="hidden" name="view_id" value="2052339481" />
+					<div class="em-search-main em-search-main-bar">
+								<!-- START General Search -->
+<div class="em-search-text em-search-field input">
+	<label for="em-search-text-0" class="screen-reader-text">
+		Search	</label>
+	<input type="text" name="em_search" class="em-search-text" id="em-search-text-0"  placeholder="Search" >
+</div>
+<!-- END General Search --><!-- START GeoLocation Search -->
+<div class="em-search-geo em-search-field input">
+	<label for="em-search-geo-0" class="screen-reader-text">
+		Near...	</label>
+	<input type="text" name="geo" class="em-search-geo" id="em-search-geo-0" value="" placeholder="Near...">
+	<input type="hidden" name="near" class="em-search-geo-coords" value="" >
+	<div id="em-search-geo-attr" ></div>
+	<script type="text/javascript">
+		EM.geo_placeholder = 'Near...';
+		EM.geo_alert_guess = 'We are going to use %s for searching. \n\n If this is incorrect, click cancel and try a more specific address.';
+		jQuery(document).on('em_maps_loaded', function() {
+	jQuery('input.em-search-geo').each(function () {
+		var input = /** @type {HTMLInputElement} */ jQuery(this);
+		var wrapper = input.closest('div.em-search-geo');
+		var autocomplete = new google.maps.places.Autocomplete(input[0]);
+		var geo_coords = wrapper.find("input.em-search-geo-coords");
+
+		var geo_field_status = function (status) {
+			wrapper.data('status', status);
+			var em_search = wrapper.closest('.em-search-legacy');
+			// backcompat
+			if( em_search.length > 0 ){
+				// old templates - soon to be deprecated
+				if( status == 'on' ){
+					wrapper.css('background-image', wrapper.css('background-image').replace('search-geo.png', 'search-geo-on.png').replace('search-geo-off.png', 'search-geo-on.png'));
+					em_search.find('select.em-search-country option:first-child').prop('selected','selected').trigger('change');
+					em_search.find('.em-search-location').slideUp();
+					em_search.find('.em-search-geo-units').slideDown();
+				}else{
+					if( status == 'off' ){
+						wrapper.css('background-image', wrapper.css('background-image').replace('search-geo.png', 'search-geo-off.png').replace('search-geo-on.png', 'search-geo-off.png'));
+					}else{
+						wrapper.css('background-image', wrapper.css('background-image').replace('search-geo-off.png', 'search-geo.png').replace('search-geo-on.png', 'search-geo.png'));
+					}
+					let current_value = geo_coords.val();
+					geo_coords.val('');
+					if( current_value !== geo_coords.val() ){
+						geo_coords.trigger('change');
+					}
+					em_search.find('.em-search-location').slideDown();
+					em_search.find('.em-search-geo-units').slideUp();
+				}
+			}else{
+				// new templates
+				em_search = wrapper.closest('.em-search, .em-search-advanced');
+				if( status === 'on' ){
+					input.addClass('on').removeClass('off');
+					em_search.find('select.em-search-country option:first-child').prop('selected','selected').trigger('change');
+					em_search.find('.em-search-location').slideUp();
+					em_search.find('.em-search-geo-units').slideDown();
+				}else{
+					if( status === 'off' ){
+						input.addClass('off').removeClass('on');
+					}else{
+						input.removeClass('off').removeClass('on');
+					}
+					let current_value = geo_coords.val();
+					geo_coords.val('');
+					if( current_value !== geo_coords.val() ){
+						geo_coords.trigger('change');
+					}
+					em_search.find('.em-search-location').slideDown();
+					em_search.find('.em-search-geo-units').slideUp();
+				}
+			}
+		};
+
+		var ac_listener = function (place) {
+			var place = autocomplete.getPlace();
+			if (!place || !place.geometry) { //place not found
+				if (input.val() == '' || input.val() == EM.geo_placeholder) {
+					geo_field_status(false);
+				} else {
+					if (wrapper.data('last-search') == input.val()) {
+						geo_field_status('on');
+						let current_value = geo_coords.val();
+						geo_coords.val(wrapper.data('last-coords'));
+						if( current_value !== geo_coords.val() ){
+							geo_coords.trigger('change');
+						}
+						return;
+					}
+					//do a nearest match suggestion as last resort
+					if (input.val().length >= 2) {
+						geo_field_status(false);
+						autocompleteService = new google.maps.places.AutocompleteService();
+						autocompleteService.getPlacePredictions({
+							'input': input.val(),
+							'offset': input.val().length
+						}, function listentoresult(list, status) {
+							if (list != null && list.length != 0) {
+								placesService = new google.maps.places.PlacesService(document.getElementById('em-search-geo-attr'));
+								placesService.getDetails({'reference': list[0].reference}, function detailsresult(detailsResult, placesServiceStatus) {
+									//we have a match, ask the user
+									wrapper.data('last-search', detailsResult.formatted_address);
+									wrapper.data('last-coords', detailsResult.geometry.location.lat() + ',' + detailsResult.geometry.location.lng());
+									if (input.val() == detailsResult.formatted_address || confirm(EM.geo_alert_guess.replace('%s', '"' + detailsResult.formatted_address + '"'))) {
+										geo_field_status('on');
+										let current_value = geo_coords.val();
+										geo_coords.val(detailsResult.geometry.location.lat() + ',' + detailsResult.geometry.location.lng());
+										if( current_value !== geo_coords.val() ){
+											geo_coords.trigger('change');
+										}
+										input.val(detailsResult.formatted_address);
+									} else {
+										input.data('last-key', false);
+										geo_field_status('off');
+									}
+								});
+							} else {
+								geo_field_status('off');
+							}
+						});
+					} else {
+						geo_field_status('off');
+					}
+				}
+				wrapper.data('last-search', input.val());
+				wrapper.data('last-coords', geo_coords.val());
+				return;
+			}
+			geo_field_status('on');
+			let current_value = geo_coords.val();
+			geo_coords.val(place.geometry.location.lat() + ',' + place.geometry.location.lng());
+			if( current_value !== geo_coords.val() ){
+				geo_coords.trigger('change');
+			}
+			wrapper.data('last-search', input.val());
+			wrapper.data('last-coords', geo_coords.val());
+		};
+		google.maps.event.addListener(autocomplete, 'place_changed', ac_listener);
+
+		if (geo_coords.val() != '') {
+			geo_field_status('on');
+			wrapper.data('last-search', input.val());
+			wrapper.data('last-coords', geo_coords.val());
+		}
+		input.on('keydown', function (e) {
+			//if enter is pressed once during 'near' input, don't do anything so Google can select location, otherwise let behavior (form submittal) proceed
+			if (e.which == 13) {
+				if (this.getAttribute('data-last-key') != 13 || wrapper.data('status') != 'on') {
+					e.preventDefault();
+				}
+			} else if( e.which == 8 && this.classList.contains('on') ){
+				// clear a valid search and start again
+				this.value = '';
+				geo_field_status(false);
+			}
+			this.setAttribute('data-last-key', e.which);
+		}).on('keypress', function(e){
+			if( e.which !== 13 && this.classList.contains('on') ){
+				// clear a valid search and start again
+				this.value = '';
+			}
+		}).on('input', function(e){
+			if (this.value == '') {
+				geo_field_status(false);
+			} else if (wrapper.data('last-search') != this.value) {
+				geo_field_status('off');
+			}
+		}).on('click', function(){
+			const end = this.value.length;
+			this.setSelectionRange(end, end);
+			this.focus();
+		});
+	});
+});	</script>
+</div>
+<!-- END GeoLocation Search --><!-- START Date Search -->
+<div class="em-search-scope em-search-field em-datepicker em-datepicker-range input" data-separator=" - "  data-format="M j">
+	<label for="em-search-scope-0" class="screen-reader-text">Dates</label>
+	<input id="em-search-scope-0" type="hidden" class="em-date-input em-search-scope" aria-hidden="true" placeholder="Dates">
+	<div class="em-datepicker-data">
+		<input type="date" name="scope[0]" value="" aria-label="Dates">
+		<span class="separator"> - </span>
+		<input type="date" name="scope[1]" value="" aria-label=" - ">
+	</div>
+</div>
+<!-- END Date Search -->									<div class="em-search-advanced-trigger">
+						<button type="button" class="em-search-advanced-trigger em-clickable em-tooltip" data-search-advanced-id="em-search-advanced-2052339481" id="em-search-advanced-trigger-2052339481" aria-label="Show Advanced Search"></button>
+					</div>
+													<div class="em-search-views" aria-label="View Types">
+												<div class="em-search-views-trigger" data-template="em-search-views-options-2052339481">
+							<button type="button" class="em-search-view-option em-clickable em-search-view-type-list" data-view="list">List</button>
+						</div>
+						<div class="em-search-views-options input" id="em-search-views-options-2052339481">
+							<select name="view" multiple="multiple" class="em-search-views-options-list" id="em-search-views-options-select-2052339481" size="4">
+																	<option class="em-search-view-option em-search-view-type-list" value="list" data-view="list"  selected>List</option>
+																	<option class="em-search-view-option em-search-view-type-list-grouped" value="list-grouped" data-view="list-grouped"  >Grouped Lists</option>
+																	<option class="em-search-view-option em-search-view-type-map" value="map" data-view="map"  >Map</option>
+																	<option class="em-search-view-option em-search-view-type-calendar" value="calendar" data-view="calendar"  >Calendar</option>
+															</select>
+							<label for id="em-search-views-options-select-2052339481" class="screen-reader-text">Search Results View Type</label>
+						</div>
+					</div>
+								<div class="em-search-submit input">
+					<button type="submit" class="em-search-submit button-primary">Search</button>
+				</div>
+			</div>
+									<input name="near_distance" type="hidden" value="25" />			<input name="near_unit" type="hidden" value="mi" />							<div class="em-modal em em-search em-search-advanced em-events-search-advanced" id="em-search-advanced-2052339481" data-parent="em-search-form-2052339481" data-view="list">
+				<div class="em-modal-popup">
+					<header>
+						<a class="em-close-modal" href="#"></a><!-- close modal -->
+						<div class="em-modal-title">
+							Show Advanced Search						</div>
+					</header>
+					<div class="em-modal-content em-search-sections input">
+						<section class="em-search-main">
+							<!-- START General Search -->
+<div class="em-search-text em-search-field input">
+	<label for="em-search-text-2052339481" class="screen-reader-text">
+		Search	</label>
+	<input type="text" name="em_search" class="em-search-text" id="em-search-text-2052339481"  placeholder="Search" >
+</div>
+<!-- END General Search --><!-- START Date Search -->
+<div class="em-search-scope em-search-field em-datepicker em-datepicker-range input" data-separator=" - "  data-format="M j">
+	<label for="em-search-scope-2052339481" class="screen-reader-text">Dates</label>
+	<input id="em-search-scope-2052339481" type="hidden" class="em-date-input em-search-scope" aria-hidden="true" placeholder="Dates">
+	<div class="em-datepicker-data">
+		<input type="date" name="scope[0]" value="" aria-label="Dates">
+		<span class="separator"> - </span>
+		<input type="date" name="scope[1]" value="" aria-label=" - ">
+	</div>
+</div>
+<!-- END Date Search --><!-- START GeoLocation Search -->
+<div class="em-search-geo em-search-field input">
+	<label for="em-search-geo-2052339481" class="screen-reader-text">
+		Near...	</label>
+	<input type="text" name="geo" class="em-search-geo" id="em-search-geo-2052339481" value="" placeholder="Near...">
+	<input type="hidden" name="near" class="em-search-geo-coords" value="" >
+	<div id="em-search-geo-attr" ></div>
+	<script type="text/javascript">
+		EM.geo_placeholder = 'Near...';
+		EM.geo_alert_guess = 'We are going to use %s for searching. \n\n If this is incorrect, click cancel and try a more specific address.';
+			</script>
+</div>
+<!-- END GeoLocation Search -->						</section>
+						<section class="em-search-advanced-sections">
+							<section class="em-search-section-location em-search-advanced-section">
+								<header>Location Options</header>
+								<div class="em-search-section-content">
+									<div class="em-search-location" >
+	<!-- START Country Search -->
+<div class="em-search-country em-search-field">
+	<label class="screen-reader-text" for="em-search-country-2052339481">
+		Country	</label>
+	<select name="country" class="em-search-country em-selectize" id="em-search-country-2052339481">
+		<option value=''>All Countries</option>
+				<option value="US">United States</option>
+			</select>
+</div>
+<!-- END Country Search -->	<div class="em-search-location-meta" style="display:none;">
+	<!-- START Region Search -->
+<div class="em-search-region em-search-field">
+	<label class="screen-reader-text" for="em-search-region-2052339481">
+		Region	</label>
+	<select name="region" class="em-search-region em-selectize" id="em-search-region-2052339481">
+		<option value=''>All Regions</option>
+			</select>
+</div>	
+<!-- END Region Search --><!-- START State/County Search -->
+<div class="em-search-state em-search-field">
+	<label class="screen-reader-text" for="em-search-state-2052339481">
+		State/County	</label>
+	<select name="state" class="em-search-state em-selectize">
+		<option value=''>State/County</option>
+			</select>
+</div>
+<!-- END State/County Search -->	</div>
+</div>								</div>
+							</section>
+															<section class="em-search-section-categories em-search-advanced-section">
+									<header>Category</header>
+									<div class="em-search-section-content">
+										<!-- START Category Search -->
+<div class="em-search-category em-search-field">
+	<label for="em-search-category-2052339481" class="screen-reader-text">Category</label>
+
+	<select name="category[]" class="em-search-category em-selectize always-open checkboxes" id="em-search-category-2052339481" multiple size="10" placeholder="Search Categories...">
+			<option class="level-0" value="1675">Art exhibit</option>
+	<option class="level-0" value="1677">Conference</option>
+	<option class="level-0" value="6613">Featured</option>
+	<option class="level-0" value="6585">Health &amp; Medicine</option>
+	<option class="level-0" value="1667">Lecture</option>
+	<option class="level-0" value="1666">Museum exhibit</option>
+	<option class="level-0" value="2028">Performance</option>
+	<option class="level-0" value="1678">Special event</option>
+	<option class="level-0" value="6497">Sustainability</option>
+	<option class="level-0" value="1674">Workshop</option>
+	</select>
+</div>
+<!-- END Category Search -->									</div>
+								</section>
+																				</section>
+					</div><!-- content -->
+					<footer class="em-submit-section input">
+						<div>
+							<button type="reset" class="button button-secondary">Clear All</button>
+						</div>
+						<div>
+							<button type="submit" class="button button-primary">Search</button>
+						</div>
+					</footer>
+				</div><!-- modal -->
+			</div>
+			</form>
+</div>
+
+<div class="em em-view-container" id="em-view-2052339481" data-view="list">
+	<div class="em-list em-events-list" id="em-events-list-2052339481" data-view-id="2052339481">
+	<div class="event-list-body-container">
+<div class="teaser-list"><article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Dec</span>
+    <span class="_day">1</span>
+    <span class="_year">2022</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/library-extended-hours-for-finals-2022-12-01/">Library extended hours for finals</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        7:00 am - 11:00 pm</div>
+              
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Dec</span>
+    <span class="_day">2</span>
+    <span class="_year">2022</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/library-extended-hours-for-finals-2022-12-02/">Library extended hours for finals</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        7:00 am - 11:00 pm</div>
+              
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Dec</span>
+    <span class="_day">6</span>
+    <span class="_year">2022</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/community-co-working-sessions-2/">Community Co-working Sessions</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        3:00 pm - 5:00 pm</div>
+              
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Dec</span>
+    <span class="_day">7</span>
+    <span class="_year">2022</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/spend-less-travel-more/">Spend Less, Travel More</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        12:00 pm - 1:00 pm</div>
+              
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Dec</span>
+    <span class="_day">7</span>
+    <span class="_year">2022</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/stress-management/">Stress Management</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        1:00 pm - 2:00 pm</div>
+              
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Dec</span>
+    <span class="_day">8</span>
+    <span class="_year">2022</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/study-abroad-office-tabling-5/">Study Abroad Office Tabling</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        12:30 pm - 2:00 pm</div>
+              <div class="_place">
+          SCE Concourse, Chicago Il
+        </div>
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Dec</span>
+    <span class="_day">9</span>
+    <span class="_year">2022</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/write-wlrc-5-2022-12-09/">Write @ WLRC</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        10:00 am - 2:00 pm</div>
+              <div class="_place">
+          SSB 1700, Chicago IL
+        </div>
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Dec</span>
+    <span class="_day">12</span>
+    <span class="_year">2022</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/campus-lighting-survey-3-2022-12-12/">Campus Lighting Survey</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        All Day</div>
+              
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Dec</span>
+    <span class="_day">12</span>
+    <span class="_year">2022</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/motivational-interviewing/">Motivational Interviewing</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        9:00 am - 11:00 am</div>
+              
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Dec</span>
+    <span class="_day">19</span>
+    <span class="_year">2022</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/community-engagement-101/">Community Engagement 101</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        10:30 am - 12:30 pm</div>
+              
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Jan</span>
+    <span class="_day">25</span>
+    <span class="_year">2023</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/memes-money-what-are-the-facts/">Memes &amp; Money: What are the Facts?</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        12:00 pm - 1:00 pm</div>
+              
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Feb</span>
+    <span class="_day">1</span>
+    <span class="_year">2023</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/uic-senate-meeting-32/">UIC Senate Meeting</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        3:15 pm - 4:45 pm</div>
+              <div class="_place">
+          Conference rooms, Student Services Building, Chicago IL
+        </div>
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Feb</span>
+    <span class="_day">8</span>
+    <span class="_year">2023</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/investing-risks-rewards/">Investing Risks &amp; Rewards</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        12:00 pm - 1:00 pm</div>
+              
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Mar</span>
+    <span class="_day">3</span>
+    <span class="_year">2023</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/student-loan-management/">Student Loan Management</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        12:00 pm - 1:00 pm</div>
+              
+          </div>
+
+      </div>
+
+</article>
+
+
+
+<article class="event-teaser">
+
+  <div class="_colA">
+    <span class="date-circle -light">
+    <span class="_month">Mar</span>
+    <span class="_day">16</span>
+    <span class="_year">2023</span>
+</span>
+  </div>
+
+
+  <div class="_colB">
+    <h2 class="_name">
+      <a href="https://today.uic.edu/events/uic-senate-meeting-33/">UIC Senate Meeting</a>
+    </h2>
+
+    <div class="_time-and-place">
+      <div class="_time">
+        3:15 pm - 4:45 pm</div>
+              <div class="_place">
+          Conference rooms, Student Services Building, Chicago IL
+        </div>
+          </div>
+
+      </div>
+
+</article>
+
+
+
+</div>
+<div class="event-cat-sidebar uic-list">
+<h2 class="event-sub-header">Events by Category</h2>
+<ul>
+ 	<li><a href="https://today.uic.edu/events/categories/event-art-exhibit/">Art exhibit</a></li>
+
+ 	<li><a href="https://today.uic.edu/events/categories/event-conference/">Conference</a></li>
+
+ 	<li><a href="https://today.uic.edu/events/categories/event-featured/">Featured</a></li>
+
+ 	<li><a href="https://today.uic.edu/events/categories/event-health-medicine/">Health &amp; Medicine</a></li>
+
+ 	<li><a href="https://today.uic.edu/events/categories/event-lecture/">Lecture</a></li>
+
+ 	<li><a href="https://today.uic.edu/events/categories/event-museum-exhibit/">Museum exhibit</a></li>
+
+ 	<li><a href="https://today.uic.edu/events/categories/performance/">Performance</a></li>
+
+ 	<li><a href="https://today.uic.edu/events/categories/event-special-event/">Special event</a></li>
+
+ 	<li><a href="https://today.uic.edu/events/categories/event-sustainability/">Sustainability</a></li>
+
+ 	<li><a href="https://today.uic.edu/events/categories/event-workshop/">Workshop</a></li>
+</ul>
+
+<div class="uic-list">
+<h2 class="event-sub-header">More Events</h2>
+<ul>
+<li><a href="https://uicflames.com/calendar">UIC Flames athletic events <img src="/wp-content/uploads/2017/08/external_link.png" alt="external_link" width="15" height="15"></a></li>
+<li><a href="https://today.uic.edu/events/feed">RSS feed of UIC Today Events <img src="/wp-content/uploads/2017/08/external_link.png" alt="external_link" width="15" height="15"></a></li>
+<li><a href="/submit-an-event/">Submit an Event ➔</a></li>
+</div>
+
+</div>
+</div><div class="em-pagination" data-em-ajax="id=2052339481&amp;action=search_events"> <span class="page-numbers current">1</span> <a class="page-numbers" href="/events/?pno=2" title="2">2</a>  <a class="next page-numbers" href="/events/?pno=2" title="2">&gt;</a>  </div>	</div>
+</div></p>
+</div></p>
+	</div>
+	
+	<div id="right_sidebar">
+<div class="rightBar_widgets">	
+	
+</div>
+
+</div>		
+
+
+</div>
+
+<div class="clearThis">&nbsp;</div>
+
+
+
+
+
+    
+
+    <footer id="footer" class="footer u-dark-region" role="contentinfo">
+
+
+  <div class="footer-contact">
+    <div class="l-full">
+
+
+            <div class="uic-type-wrapper-footer">
+
+            <div class="uic-type-treatment-footer">
+            
+  			<div class="_mark"> 
+    		<a href="http://uic.edu" class="uic-logo-icon" aria-label="UIC logo">
+ 			<svg aria-label="UIC.edu" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ 			<title>UIC Logo</title>
+ 			<circle class="_circle" cx="27" cy="27" r="25" fill="none"></circle>
+ <path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#d50032" fill-rule="evenodd"></path>
+</svg>
+</a>
+  			</div><!--  _mark   -->   
+            
+  			<div class="_text">
+    		<a href="/">
+        	  Today
+      		  </a>
+ 			</div><!--  _text   -->
+
+            
+			</div><!--  uic-type-treatment-footer   -->
+
+
+			</div><!--  uic-type-wrapper-footer    -->
+ 
+
+
+  <div class="_contact">
+  
+  
+    <h2>UIC Today Contact</h2>
+    
+    
+		<div class="site-address">Office of Strategic Marketing and Communications<br />
+		601 S. Morgan St., 1320 UH, Chicago, IL 60607</div>
+      
+      
+		<div class="site-email"><a href="mailto:uictoday@uic.edu">uictoday@uic.edu</a></div>
+        
+        
+		<div aria-label="Social Media Accounts" class="_social" role="navigation">
+			<h2 class="assistive-text">Social Media Accounts</h2> 
+  			<ul class="site-social-links">
+            <li><a href="https://www.facebook.com/uicnews "><img src="/wp-content/themes/uictoday/images/social-media-icons/facebook.png" alt="Facebook"></a></li>
+            <li><a href="https://instagram.com/thisisuic/"><img src="/wp-content/themes/uictoday/images/social-media-icons/instagram.png" alt="Instagram"></a></li>
+            <li><a href="https://today.uic.edu/campus-news/campus-newspaper/subscribe-to-uic-today"><img src="/wp-content/themes/uictoday/images/social-media-icons/rss.png" alt="RSS feed"></a></li>
+            <li><a href="https://uicscience.tumblr.com/"><img src="/wp-content/themes/uictoday/images/social-media-icons/tumblr.png" alt="tumblr"></a></li>
+            <li><a href="https://twitter.com/UICnews"><img src="/wp-content/themes/uictoday/images/social-media-icons/twitter.png" alt="Twitter"></a></li>
+            <li><a href="https://www.youtube.com/user/uicmedia"><img src="/wp-content/themes/uictoday/images/social-media-icons/youtube.png" alt="YouTube"></a></li>
+            <li><a href="https://today.uic.edu/contact/social-media-directory"><img src="/wp-content/themes/uictoday/images/social-media-icons/directory.png" alt="Social media directory"></a></li>
+            </ul>
+            
+            
+		</div>        
+        
+        
+  </div>
+
+    
+
+       
+
+
+   
+
+
+
+
+
+		<div id="quicklinks_footer" role="navigation" aria-label="Quick Links" >
+			<div id="quicklinks_footer_container">
+	  	 	<div class="menu-footer-quicklinks-container"><ul id="menu-footer-quicklinks" class="menu"><li id="menu-item-57564"><a href="/news-release/news-release/">For the Media</a></li>
+<li id="menu-item-57555"><a href="https://today.uic.edu/experts-guide/">Experts Guide</a></li>
+<li id="menu-item-57577"><a href="https://today.uic.edu/contact/communicating-on-campus/submit-announcements/">Submit Announcements</a></li>
+<li id="menu-item-57578"><a href="https://today.uic.edu/submit-an-event/">Submit an Event</a></li>
+<li id="menu-item-67562"><a href="https://today.uic.edu/campus-news/campus-newspaper/subscribe-to-uic-today/">Subscribe to UIC Today</a></li>
+<li id="menu-item-110887"><a href="https://today.uic.edu/uic-in-the-news/">UIC in the news</a></li>
+</ul></div>        	</div>
+	    </div>      
+
+
+</div>
+
+    
+    </div>
+  </div>
+
+
+
+
+<div class="footer-wrapper-uic-menu-legal">
+
+
+  <div class="footer-uic-menu">
+    <div class="ll-full">
+
+      <div role="navigation" aria-label="UIC.edu Links" >
+  <h2 class="assistive-text">UIC.edu links</h2>
+  <ul class="uic-footer-menu">
+    <li><a href="http://uic.edu/">UIC.edu</a></li>
+    <li><a href="http://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+    <li><a href="http://uicflames.com/">Athletics</a></li>
+    <li><a href="http://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+    <li><a href="http://disabilityresources.uic.edu/">Disability Resources</a></li>
+    <li><a href="http://emergency.uic.edu/">Emergency Information</a></li>
+    <li><a href="http://events.uic.edu/">Event Calendar</a></li>
+    <li><a href="http://uic.edu/about/job-opportunities">Job Openings</a></li>
+    <li><a href="http://library.uic.edu/">Library</a></li>
+    <li><a href="http://maps.uic.edu/">Maps</a></li>
+    <li><a href="http://hospital.uillinois.edu/">UI Health</a></li>
+    <li><a href="http://dos.uic.edu/studentveteranaffairs.shtml">Veterans Affairs</a></li>
+  </ul>
+</div>
+
+    </div><!--  ll-full   -->
+    
+    <div class="m-full">
+    <img src="/wp-content/themes/uictoday/images/uihealth.png" alt="UI Health and UIC co-branded logo">
+    </div><!--  m-full   -->
+
+    <div class="n-full" style="padding:59px;">
+      <div class="cookie-banner">
+        <div id="footer-bottom">
+          <!-- OneTrust Cookies Settings button start -->
+          <button id="ot-sdk-btn" class="ot-sdk-show-settings" type="button">Cookie Settings</button>
+          <!-- OneTrust Cookies Settings button end -->
+        </div>
+      </div>
+    </div><!--  m-full   -->
+
+    
+  </div><!--  footer-uic-menu   --> 
+
+
+
+
+  <div class="footer-legal">
+    <div class="l-full">
+
+      <div class="site-copyright">
+  &copy; 2022 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Statement</a>
+</div>
+
+<div class="campuses" role="navigation" aria-label="University of Illinois campus web sites">
+  <h2 class="assistive-text">Campuses</h2>
+  <ul class="campuses-list">
+    <li><a href="https://uillinois.edu/">University of Illinois System</a></li>
+    <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+    <li><a href="https://uis.edu/">Springfield</a></li>
+  </ul>
+</div>
+
+    </div>
+
+
+
+</div><!--  footer-wrapper-uic-menu-legal   --> 
+
+
+
+<!-- Google Translate widget -->
+<h2 class="assistive-text">Google Translate</h2>
+<div class="google-translate">
+  <div id="google_translate_element">
+  </div>
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+      }
+  </script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+
+
+    
+    
+  </div>
+
+</footer>
+
+
+
+
+
+</div>
+
+
+<script>requestAnimationFrame(() => document.body.classList.add( "stk--anim-init" ))</script><script type="text/javascript">
+  document.write(unescape("%3Cscript src='//www.uic.edu/inc/emergency/alert.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</body>
+</html>

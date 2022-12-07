@@ -1,0 +1,18 @@
+Could not connect to https://give.engineering.uic.edu
+Error occured: HTTPSConnectionPool(host='give.engineering.uic.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))
+
+Could not connect to https://emergency.uic.edu
+Error occured: HTTPSConnectionPool(host='emergency.uic.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))
+
+Could not connect to https://give.uic.edu
+Error occured: HTTPSConnectionPool(host='give.uic.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))
+
+Could not connect to https://gat.uic.edu
+Error occured: HTTPSConnectionPool(host='gat.uic.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))
+
+Could not connect to https://tag.uic.edu
+Error occured: HTTPSConnectionPool(host='tag.uic.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))
+
+Could not connect to https://fimmanager.vcas.uic.edu/maps/feedback
+Error occured: HTTPSConnectionPool(host='fimmanager.vcas.uic.edu', port=443): Max retries exceeded with url: /maps/feedback (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))
+
